@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: url("./background.jpg") no-repeat;
+}
+
+.header {
+    color: #17387B;
+    margin-left: 80px;
+    margin-top: 120px;
+    font-weight: bold;
+    font-size: 39px;
+}
+.button {
+    width: 140px;
+    height: 40px;
+    margin: 20px 0 0 80px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    background: deeppink;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.body {
+    width: 320px;
+    margin-left: 80px;
+    color: #818797;
+    font-size: 11px;
+    font-weight: bold;
+}
